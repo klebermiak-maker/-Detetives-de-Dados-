@@ -1,0 +1,6 @@
+{
+  "name": "Oficina dos Detetives de Dados - BNCC EF03CO05 (3º Ano C)",
+  "description": "Oficina pedagógica interativa de Computação para o 3º ano C sobre dados estruturados (Habilidade BNCC EF03CO05), com jogos práticos, plano de aula de 50 minutos e fichas imprimíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
